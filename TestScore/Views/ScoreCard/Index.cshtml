@@ -1,0 +1,13 @@
+﻿@model IEnumerable<TestScore.Models.ScoreCardViewModel>
+@using GridMvc.Html
+
+
+<div class="score-card-wrapper">
+    @Html.Grid(Model).Columns(columns =>  {
+        columns.Add(c => c.Name).Titled("Student Name");
+        columns.Add(c => c.Score).Titled("Score");
+        columns.Add(c => c.TestDate).Titled("Test Date");
+        columns.Add(c => c.MissedQuestions).Titled("Missed Questions");
+    }).WithPaging(20).Sortable(true).SetRowCssClasses(e => e.Score < 60 ? "grid-red-row" : (e.Score > 80 ? "grid-green-row" : "grid-yellow-row"))
+
+</div>

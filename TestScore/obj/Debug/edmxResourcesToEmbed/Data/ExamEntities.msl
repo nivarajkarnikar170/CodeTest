@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ExamDbModelStoreContainer" CdmEntityContainer="ExamDbEntities1">
+    <EntitySetMapping Name="ScoreCards">
+      <EntityTypeMapping TypeName="ExamDbModel.ScoreCard">
+        <MappingFragment StoreEntitySet="ScoreCard">
+          <ScalarProperty Name="ScoreId" ColumnName="ScoreId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Score" ColumnName="Score" />
+          <ScalarProperty Name="TestDate" ColumnName="TestDate" />
+          <ScalarProperty Name="MissedQuestions" ColumnName="MissedQuestions" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

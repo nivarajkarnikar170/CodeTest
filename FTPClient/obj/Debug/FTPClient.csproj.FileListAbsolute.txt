@@ -1,0 +1,6 @@
+C:\Users\nrajkarnikar\OneDrive - iPayment Inc\Documents\Visual Studio 2017\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.dll
+C:\Users\nrajkarnikar\OneDrive - iPayment Inc\Documents\Visual Studio 2017\Projects\FTPClient\FTPClient\bin\Debug\FTPClient.pdb
+C:\Users\nrajkarnikar\OneDrive - iPayment Inc\Documents\Visual Studio 2017\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.csprojAssemblyReference.cache
+C:\Users\nrajkarnikar\OneDrive - iPayment Inc\Documents\Visual Studio 2017\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.csproj.CoreCompileInputs.cache
+C:\Users\nrajkarnikar\OneDrive - iPayment Inc\Documents\Visual Studio 2017\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.dll
+C:\Users\nrajkarnikar\OneDrive - iPayment Inc\Documents\Visual Studio 2017\Projects\FTPClient\FTPClient\obj\Debug\FTPClient.pdb

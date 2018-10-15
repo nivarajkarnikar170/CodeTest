@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MyFTPClient.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="FTPServerAddress" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ftp://test.rebex.net/pub/example/</Value>
+    </Setting>
+    <Setting Name="FTPServerUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">demo</Value>
+    </Setting>
+    <Setting Name="FTPServerPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">password</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,21 @@
+﻿.score-card-wrapper{
+    margin: 1.5em;
+}
+
+.grid-red-row {
+    background-color: red !important;
+}
+
+.grid-green-row {
+    background-color: green !important;
+}
+
+.grid-yellow-row {
+    background-color: yellow !important;
+}
+
+tr :hover {
+    filter: brightness(50%) !important;
+}
+
+
